@@ -1,0 +1,1 @@
+本软件使用了boost库,boost库默认路径是C:\Boost。
